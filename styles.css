@@ -1,2 +1,9 @@
-
 /* Your CSS Code here. */
+
+.holder{
+	display:grid;
+	width:200px;
+	height:200px;
+	grid-template-columns:1fr 1fr;
+	grid-template-rows:1fr 1fr;
+}
